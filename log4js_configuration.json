@@ -1,0 +1,13 @@
+{
+    "replaceConsole": false,
+    "appenders": [
+        {
+            "category": "hdl",
+            "type": "console",
+            "filename": "/home/system.log"
+        }
+    ],
+    "levels": {
+        "hdl": "info"
+    }
+}
